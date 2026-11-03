@@ -1,0 +1,16 @@
+# QEMU VM files
+silkit/qemu-ubuntu/
+*.img
+
+# Build artifacts
+**/build/
+**/bin/
+*.o
+*.so
+*.a
+
+# IDE/temp
+.vscode/
+.idea/
+*.log
+
